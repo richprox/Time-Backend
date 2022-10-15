@@ -1,4 +1,4 @@
-package net.javaguides.springboot.model;
+package net.timeapp.springboot.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
