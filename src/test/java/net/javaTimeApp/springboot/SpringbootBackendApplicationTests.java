@@ -1,4 +1,4 @@
-package net.javaguides.springboot;
+package net.javaTimeApp.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
